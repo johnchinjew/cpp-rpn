@@ -1,6 +1,4 @@
 // John Chin-Jew
-// 1603526
-// COMSC-210-3157
 
 #include <iostream>
 #include <string>
@@ -13,7 +11,6 @@ using namespace std;
 
 int main() {
   cout << "Programmer: John Chin-Jew\n";
-  cout << "ID:         1603526\n";
   cout << "File:       " << __FILE__ << '\n' << endl;
 
   cout << "* TESTS STARTING for `Stack` *\n";
