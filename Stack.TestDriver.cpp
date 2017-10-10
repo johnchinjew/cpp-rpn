@@ -1,5 +1,3 @@
-// John Chin-Jew
-
 #include <iostream>
 #include <string>
 using namespace std;
