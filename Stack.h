@@ -1,7 +1,3 @@
-// John Chin-Jew
-// 1603526
-// COMSC-210-3157
-
 #ifndef STACK_LINKED_LIST_H
 #define STACK_LINKED_LIST_H
 
